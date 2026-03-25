@@ -1,0 +1,23 @@
+{
+  "title": "Global prevalence data on Long COVID neurological and psychiatric symptoms (brai",
+  "id": "juanmoisesd/long-covid-neuropsychiatric-symptoms-global-2021-2",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "brain-fog",
+    "cognitive-impairment",
+    "covid-19",
+    "dataset",
+    "long-covid",
+    "neuropsychiatric",
+    "open-data",
+    "pasc",
+    "open-data",
+    "research"
+  ],
+  "description": "Global prevalence data on Long COVID neurological and psychiatric symptoms (brain fog, anxiety, depression, cognitive impairment) 2021-2024. DOI: 10.7910/DVN/7LRXMV\n\nDOI: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7LRXMV\nGitHub: https://github.com/juanmoisesd/long-covid-neuropsychiatric-symptoms-global-2021-2024\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
