@@ -1,13 +1,2 @@
-from setuptools import setup, find_packages
-setup(
-    name="long-covid-neuropsychiatric-symptoms-global-2021-2024",
-    version="1.0.0",
-    description="Global prevalence data on Long COVID neurological and psychiatric symptoms (brain fog, anxiety, depr",
-    author="de la Serna, Juan Moisés",
-    url="https://github.com/juanmoisesd/long-covid-neuropsychiatric-symptoms-global-2021-2024",
-    packages=find_packages(),
-    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
-    python_requires=">=3.7",
-    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
-    keywords="brain-fog, cognitive-impairment, covid-19, dataset, long-covid, neuropsychiatric, open-data, pasc, zenodo, open-data",
-)
+from setuptools import setup,find_packages
+setup(name="long-covid-neuropsychiatric-symptoms-global-2021-2024",version="1.0.0",description="Global prevalence data on Long COVID neurological and psychiatric symptoms (brain fog, anxiety, depr" ,author="de la Serna, Juan Moisés",url="https://github.com/juanmoisesd/long-covid-neuropsychiatric-symptoms-global-2021-2024",packages=find_packages(),install_requires=["pandas>=1.3.0","requests>=2.26.0"],python_requires=">=3.7",keywords="brain-fog, cognitive-impairment, covid-19, dataset, long-covid, neuropsychiatric, open-data, pasc, zenodo, open-data")
