@@ -1,0 +1,26 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Global prevalence data on Long COVID neurological and psychiatric symptoms (brain fog, anxiety, depr",
+  "version": "1.0.0",
+  "identifier": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7LRXMV",
+  "datePublished": "2025",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "codeRepository": "https://github.com/juanmoisesd/long-covid-neuropsychiatric-symptoms-global-2021-2024",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      }
+    }
+  ],
+  "programmingLanguage": [
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "keywords": "brain-fog, cognitive-impairment, covid-19, dataset, long-covid, neuropsychiatric, open-data, pasc"
+}
