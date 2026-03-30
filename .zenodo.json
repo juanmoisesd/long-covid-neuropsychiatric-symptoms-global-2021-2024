@@ -1,0 +1,35 @@
+{
+  "title": "Long COVID-19 Neuropsychiatric Symptoms Global 2021 2024",
+  "description": "Open research dataset: Long COVID-19 Neuropsychiatric Symptoms Global 2021 2024. By Juan Moisés de la Serna Tuya (UNIR).",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "COVID-19",
+    "neuroscience",
+    "global",
+    "open data",
+    "research",
+    "dataset"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-zero",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://github.com/juanmoisesd/long-covid-neuropsychiatric-symptoms-global-2021-2024",
+      "scheme": "url"
+    }
+  ]
+}
